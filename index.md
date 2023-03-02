@@ -3,7 +3,7 @@
 
 Thursday March 2nd, 2023 
 
-. 
+Scattered responses: This exercise was not too bad but required close attention to detail. I didn't realize how easy it was to edit CSS until this morning, when I saw where Susanna entered code for font and color.  One thing I'd still like to improve on is image sizing and alignment in HTML.
 
 ## Links to the exercises done today 
 
@@ -14,4 +14,4 @@ Thursday March 2nd, 2023
 
 ## Comments or notes about problems 
 
-Here...
+Happy that everything worked :)
